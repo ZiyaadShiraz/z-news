@@ -2,7 +2,7 @@
   "name": "z-news",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ziyaadshiraz.github.io/z-news/",
+  "homepage": "https://ziyaadshiraz.github.io/z-news",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
