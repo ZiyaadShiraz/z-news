@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+.searchField{
+  position: sticky;
+  top: 1rem;
+  padding: 1rem; 
+  width: 80%;
+  display: block;
+  margin: 2rem auto; 
+  border-radius: 2rem;
+  border: 0.5px solid grey;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.welcome-text{
+  text-align: center;
+  font-size: 2rem;
+
+}
